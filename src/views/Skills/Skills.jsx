@@ -20,6 +20,7 @@ const Skills = () => {
         </div>
         <hr />
         <div className={styles.skillsList}>
+            <SkillList src={checkMarkIcon} skill={'Express'}/>
             <SkillList src={checkMarkIcon} skill={'React'}/>
             <SkillList src={checkMarkIcon} skill={'Angular'}/>
             <SkillList src={checkMarkIcon} skill={'Python '}/>
