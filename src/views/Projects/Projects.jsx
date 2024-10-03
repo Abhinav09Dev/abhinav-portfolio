@@ -15,25 +15,25 @@ const Projects = () => {
           src={fisheries}
           link={"https://pmmkssy.dof.gov.in/pmmkssy/#/"}
           title={"Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana"}
-          desc={"TBD"}
+          desc={""}
         />
         <ProjectCard
           src={fisheries2}
           link={"https://nfdp.dof.gov.in/nfdp/#/"}
           title={"National Fisheries Digital Platform"}
-          desc={"TBD"}
+          desc={""}
         />
         <ProjectCard
           src={cloudNoting}
           link={"https://github.com/Abhinavvvvvvvv/Cloud-Noting"}
           title={"Cloud Noting"}
-          desc={"TBD"}
+          desc={""}
         />
         <ProjectCard
           src={newsScrapper}
           link={"https://github.com/Abhinavvvvvvvv/News-Scrapper"}
           title={"News Scapper"}
-          desc={"TBD"}
+          desc={""}
         />
       </div>
     </section>

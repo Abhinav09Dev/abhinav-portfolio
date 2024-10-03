@@ -46,9 +46,9 @@ export default function hero() {
           </a>
         </span>
         <p className={styles.description}>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam
-          ratione magni reprehenderit porro incidunt. Hic fugit voluptatibus a
-          ullam dolor.{" "}
+          A detail-oriented developer driven by a passion for continuous
+          learning, dedicated to crafting meaningful and intuitive digital
+          experiences.
         </p>
         <a href={CV} target="_blank">
           <button className="hover">Résumé</button>
